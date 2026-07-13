@@ -2,6 +2,14 @@
 
 A Streamlit application that translates natural language text prompts into high-quality digital artwork, built with production-grade API orchestration: split timeouts, retry with exponential backoff, chunked binary streaming, and forced pixel-level integrity verification.
 
+## Screenshots
+
+**App Interface**
+![App Interface](screenshots/app-interface.png)
+
+**Generated Output**
+![Demo Output](screenshots/demo-output.png)
+
 ## Features
 
 - 🖼️ Text-to-image generation via [Pollinations.ai](https://pollinations.ai) — **free, no API key required**
